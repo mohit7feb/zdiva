@@ -125,7 +125,7 @@
             </div>
             <div class="social_icon">
                <ul>
-                  <li>
+<!--                   <li>
                      <a ><i class="fa fa-facebook" aria-hidden="true"></i></a>
                   </li>
                   <li>
@@ -136,7 +136,7 @@
                   </li>
                   <li>
                      <a><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                  </li>
+                  </li> -->
                </ul>
             </div>
          </div>
